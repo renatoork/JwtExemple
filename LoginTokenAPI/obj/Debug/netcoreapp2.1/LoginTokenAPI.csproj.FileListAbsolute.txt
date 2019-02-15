@@ -1,0 +1,15 @@
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\bin\Debug\netcoreapp2.1\LoginTokenAPI.exe
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\bin\Debug\netcoreapp2.1\LoginTokenAPI.deps.json
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\bin\Debug\netcoreapp2.1\LoginTokenAPI.runtimeconfig.json
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\bin\Debug\netcoreapp2.1\LoginTokenAPI.runtimeconfig.dev.json
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\bin\Debug\netcoreapp2.1\LoginTokenAPI.dll
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\bin\Debug\netcoreapp2.1\LoginTokenAPI.pdb
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\obj\Debug\netcoreapp2.1\LoginTokenAPI.csprojAssemblyReference.cache
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\obj\Debug\netcoreapp2.1\LoginTokenAPI.csproj.CoreCompileInputs.cache
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\obj\Debug\netcoreapp2.1\LoginTokenAPI.RazorAssemblyInfo.cache
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\obj\Debug\netcoreapp2.1\LoginTokenAPI.RazorAssemblyInfo.cs
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\obj\Debug\netcoreapp2.1\LoginTokenAPI.AssemblyInfoInputs.cache
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\obj\Debug\netcoreapp2.1\LoginTokenAPI.AssemblyInfo.cs
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\obj\Debug\netcoreapp2.1\LoginTokenAPI.RazorTargetAssemblyInfo.cache
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\obj\Debug\netcoreapp2.1\LoginTokenAPI.dll
+D:\git\PoC Projects\LoginTokenAPI\LoginTokenAPI\obj\Debug\netcoreapp2.1\LoginTokenAPI.pdb
